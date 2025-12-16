@@ -1,0 +1,18 @@
+{
+  "name": "project-task-managment",
+  "version": "1.0.0",
+  "description": "A scalable project and task management system built with MERN, featuring authentication, role-based access, task workflows (todo/in progress/done), deadlines, priorities, filtering, and a responsive UI.",
+  "workspaces":["client","server"],
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jd1v/Project-Task-Managment.git"
+  },
+  "keywords": ["React","ExpressJs","MongoDB","NodeJs"],
+  "author": "Jd1v",
+  "bugs": {
+    "url": "https://github.com/jd1v/Project-Task-Managment/issues"
+  },
+  "homepage": "https://github.com/jd1v/Project-Task-Managment#readme"
+}
