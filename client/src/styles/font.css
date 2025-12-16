@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'IBMPlexSans';
+  src: url('IBMPlexSans.ttf') format('truetype-variations');
+  src: url('IBMPlexSans.ttf') format('truetype') tech('variations');
+  font-weight: 100 900; 
+  font-stretch: 75% 125%;
+  font-style: normal;
+  font-display: swap;
+}
+* {
+    font-family: IBMPlexSans;
+}
